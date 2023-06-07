@@ -12,3 +12,8 @@
 
 * future mechanical engineer
 * boat captain/drone pilot
+
+### Wren ( Patch 4.05)
+
+* artist & storyteller
+* unicorn aficionado
