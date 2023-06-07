@@ -1,3 +1,17 @@
+## New Feature Release: Lady-baby
+
+_Expected Delivery Date: July 22, 2023_ 🚢
+
+### Description
+
+This patch adds one more member to the family. 👶
+
+### Expected Outcomes
+**Wren** gets the little sister she always wanted. 👯‍♀️
+
+**Bailey** has new guard dog resposibilities 🐕
+
+**Nick** feature set updates to papa of four❗
 
 ## Kate Pate (V2.0) 
 
@@ -20,7 +34,7 @@ Septermber 2012 in California
 * web engineer
 * game design
 * creative writing
-* papa of three
+* papa of ~three~ four
 
 ### Winter (Patch 12.23)
 
